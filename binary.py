@@ -30,4 +30,4 @@ if result != -1:
 else:
     print("Element is not present in list1")
 
-# hud hud hud
+# hud hud hud commit deleted
